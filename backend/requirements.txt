@@ -1,4 +1,4 @@
-livekit-agents
+livekit-agents[voice-assistant]
 groq
 livekit-plugins-silero
 livekit-plugins-deepgram
@@ -8,3 +8,4 @@ flask[async]
 flask
 flask-cors
 uvicorn
+gunicorn
